@@ -1,0 +1,9 @@
+{
+  "name": "GraphQL_MovieApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "learning GraphQL_MovieApp",
+  "repository": "https://github.com/Steave-Choi/GraphQL_MovieApp.git",
+  "author": "Steave-Choi<csh005@hanmail.net>"
+}
